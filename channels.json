@@ -1,0 +1,102 @@
+{
+  "version": 1,
+  "updated": "2026-04-27",
+  "channels": [
+    {
+      "id": "ert1",
+      "name": "ERT1",
+      "logo": "https://i.imgur.com/slE8U5m.png",
+      "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT1/default/playlist.m3u8"
+    },
+    {
+      "id": "ert2",
+      "name": "ERT2",
+      "logo": "https://i.imgur.com/o4BUdoL.png",
+      "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT2/default/playlist.m3u8"
+    },
+    {
+      "id": "ert3",
+      "name": "ERT3",
+      "logo": "https://i.imgur.com/rv4JLBO.png",
+      "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT3/default/playlist.m3u8"
+    },
+    {
+      "id": "ertnews",
+      "name": "ERT News",
+      "logo": "https://i.imgur.com/XwLTzaF.jpg",
+      "url": "https://ertflix.ascdn.broadpeak.io/ertlive/ertnews/default/index.m3u8"
+    },
+    {
+      "id": "ant1",
+      "name": "ANT1",
+      "logo": "https://i.imgur.com/V1w22Or.png",
+      "url": "https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8"
+    },
+    {
+      "id": "alpha",
+      "name": "Alpha",
+      "logo": "https://i.imgur.com/utv0rWj.png",
+      "url": "https://alphatvlive.siliconweb.com/alphatvlive/live_abr/playlist.m3u8"
+    },
+    {
+      "id": "star",
+      "name": "Star",
+      "logo": "https://i.imgur.com/zGpwulO.png",
+      "url": "https://livestar.siliconweb.com/starvod/star4/star4.m3u8"
+    },
+    {
+      "id": "skai",
+      "name": "Skai",
+      "logo": "https://i.imgur.com/BXmta4G.png",
+      "url": "https://skai-live.siliconweb.com/media/cambria4/index.m3u8"
+    },
+    {
+      "id": "skai_gr",
+      "name": "Skai GR",
+      "logo": "https://i.imgur.com/BXmta4G.png",
+      "url": "https://skai-live-gr.siliconweb.com/media/cambria4/index.m3u8"
+    },
+    {
+      "id": "open",
+      "name": "Open",
+      "logo": "https://i.imgur.com/72GOh2Z.png",
+      "url": "https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8"
+    },
+    {
+      "id": "makedonia",
+      "name": "Makedonia TV",
+      "logo": "https://i.imgur.com/55NSQ50.png",
+      "url": "https://mcdn.antennaplus.gr/live/media0/MAK/HLS/MAK.m3u8"
+    },
+    {
+      "id": "cinemac",
+      "name": "Cinema Classics",
+      "logo": "https://i.imgur.com/STyrob9.jpg",
+      "url": "https://tv.mediacp.eu:8081/cinemaclassics/index.m3u8"
+    },
+    {
+      "id": "a2cnn",
+      "name": "A2 CNN",
+      "logo": "https://i.imgur.com/TgO3Lzi.png",
+      "url": "https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8"
+    },
+    {
+      "id": "news24",
+      "name": "News24",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/News_24_%28Albania%29.svg/1024px-News_24_%28Albania%29.svg.png",
+      "url": "https://tv.balkanweb.com/news24/livestream/playlist.m3u8"
+    },
+    {
+      "id": "oranews",
+      "name": "Ora News",
+      "logo": "https://i.imgur.com/ILZY5bJ.png",
+      "url": "https://live1.mediadesk.al/oranews.m3u8"
+    },
+    {
+      "id": "syri",
+      "name": "Syri TV",
+      "logo": "https://i.imgur.com/placeholder_syri.png",
+      "url": "https://stream.syritv.al/live/syritv/playlist.m3u8"
+    }
+  ]
+}
