@@ -107,7 +107,7 @@
 {
   "id": "high",
   "name": "High TV",
-  "logo": "https://i.ibb.co/hRLC5n0s/image.png",
+  "logo": "https://raw.githubusercontent.com/markos-dev-ui/tivara/refs/heads/main/high-logo-1.png",
   "url": "http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8"
 },
 {
