@@ -143,7 +143,7 @@
 {
   "id": "one",
   "name": "One TV",
-  "logo": "",
+  "logo": "https://raw.githubusercontent.com/markos-dev-ui/tivara/refs/heads/main/One_Channel_Logo.png",
   "url": "http://push-int.siliconweb.com/one/stream/playlist.m3u8"
 },
 {
