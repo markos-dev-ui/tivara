@@ -74,30 +74,24 @@
       "logo": "https://i.imgur.com/STyrob9.jpg",
       "url": "https://tv.mediacp.eu:8081/cinemaclassics/index.m3u8"
     },
-  {
-    "name": "Vizion Plus",
-    "tvg_id": "VizionPlus.al@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Vizion_Plus.svg/512px-Vizion_Plus.svg.png",
-    "group": "Albania",
-    "quality": "1080p",
-    "url": "https://tringliveviz.akamaized.net/delta/105/out/u/qwaszxerdfcvrtryuy.m3u8"
-  },
-  {
-    "name": "Euronews Albania",
-    "tvg_id": "EuronewsAlbania.al@SD",
-    "logo": "https://i.postimg.cc/RhN0ZGph/euronewsalbania.png",
-    "group": "Albania",
-    "quality": "SD",
-    "url": "https://gjirafa-video-live.gjirafa.net/gjvideo-live/2dw-zuf-1c9-pxu/index.m3u8"
-  },
-  {
-    "name": "CNA",
-    "tvg_id": "CNA.al@SD",
-    "logo": "https://codeit.al/wp-content/uploads/2020/08/cna.png",
-    "group": "Albania",
-    "quality": "1080p",
-    "url": "https://live1.mediadesk.al/cnatvlive.m3u8"
-  },
+    {
+  "id": "vizionplus",
+  "name": "Vizion Plus",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Vizion_Plus.svg/512px-Vizion_Plus.svg.png",
+  "url": "https://tringliveviz.akamaized.net/delta/105/out/u/qwaszxerdfcvrtryuy.m3u8"
+},
+{
+  "id": "euronewsal",
+  "name": "Euronews Albania",
+  "logo": "https://i.postimg.cc/RhN0ZGph/euronewsalbania.png",
+  "url": "https://gjirafa-video-live.gjirafa.net/gjvideo-live/2dw-zuf-1c9-pxu/index.m3u8"
+},
+{
+  "id": "cna",
+  "name": "CNA",
+  "logo": "https://codeit.al/wp-content/uploads/2020/08/cna.png",
+  "url": "https://live1.mediadesk.al/cnatvlive.m3u8"
+},
     {
       "id": "a2cnn",
       "name": "A2 CNN",
