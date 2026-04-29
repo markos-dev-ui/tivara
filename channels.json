@@ -83,7 +83,7 @@
     {
       "id": "news24",
       "name": "News24",
-      "logo": "https://raw.githubusercontent.com/markos-dev-ui/tivara/refs/heads/main/news24-%20Imgur.png",
+      "logo": "https://raw.githubusercontent.com/markos-dev-ui/tivara/refs/heads/main/newbal.png",
       "url": "https://tv.balkanweb.com/news24/livestream/playlist.m3u8"
     },
     {
@@ -101,13 +101,13 @@
     {
       "id": "vizionplus",
       "name": "Vizion Plus",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Vizion_Plus.svg/512px-Vizion_Plus.svg.png",
+      "logo": "https://raw.githubusercontent.com/markos-dev-ui/tivara/refs/heads/main/vplo.png",
       "url": "https://tringliveviz.akamaized.net/delta/105/out/u/qwaszxerdfcvrtryuy.m3u8"
     },
     {
       "id": "euronewsal",
       "name": "Euronews Albania",
-      "logo": "https://i.postimg.cc/RhN0ZGph/euronewsalbania.png",
+      "logo": "https://raw.githubusercontent.com/markos-dev-ui/tivara/refs/heads/main/eunelo.png",
       "url": "https://gjirafa-video-live.gjirafa.net/gjvideo-live/2dw-zuf-1c9-pxu/index.m3u8"
     },
     {
@@ -119,13 +119,13 @@
     {
       "id": "kontra",
       "name": "Kontra TV",
-      "logo": "https://raw.githubusercontent.com/markos-dev-ui/tivara/refs/heads/main/Kontra_new_logo-1.png",
+      "logo": "https://raw.githubusercontent.com/markos-dev-ui/tivara/refs/heads/main/konlo.png",
       "url": "http://kontralive.siliconweb.com/live/kontratv/playlist.m3u8"
     },
     {
       "id": "high",
       "name": "High TV",
-      "logo": "https://raw.githubusercontent.com/markos-dev-ui/tivara/refs/heads/main/high-logo-1.png",
+      "logo": "https://raw.githubusercontent.com/markos-dev-ui/tivara/refs/heads/main/hilo.png",
       "url": "http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8"
     },
     {
@@ -161,7 +161,7 @@
     {
       "id": "one",
       "name": "One TV",
-      "logo": "https://raw.githubusercontent.com/markos-dev-ui/tivara/refs/heads/main/One_Channel_Logo.png",
+      "logo": "https://raw.githubusercontent.com/markos-dev-ui/tivara/refs/heads/main/och.png",
       "url": "http://push-int.siliconweb.com/one/stream/playlist.m3u8"
     },
     {
